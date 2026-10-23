@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/cyber-banner.svg" alt="Tanish Rao — AI/ML, full-stack and open source" width="100%" />
+  <img src="cyber-banner.svg" alt="Tanish Rao — AI/ML, full-stack and open source" width="100%" />
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@ I'm an intermediate developer exploring **AI/ML**, **full-stack engineering**, *
 > `CURRENT DIRECTIVE:` Build things that solve real problems. Keep the code understandable. Share what I learn.
 
 <p align="center">
-  <img src="assets/focus-matrix.svg" alt="Focus areas: AI and ML, full-stack, DSA, open source" width="100%" />
+  <img src="focus-matrix.svg" alt="Focus areas: AI and ML, full-stack, DSA, open source" width="100%" />
 </p>
 
 ## `01 / PROJECT LAUNCHPAD`
