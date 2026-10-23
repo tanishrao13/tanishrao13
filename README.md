@@ -10,6 +10,9 @@
 
 <h1 align="center">Hey, I'm Tanish Rao 👋</h1>
 <p align="center"><code>LEARN → BUILD → TEST → SHIP → REPEAT</code></p>
+<p align="center">
+  Building useful web apps · Exploring AI/ML · Practicing DSA
+</p>
 
 I'm an intermediate developer exploring **AI/ML**, **full-stack engineering**, **data structures & algorithms**, and **open source**. I like turning concepts into useful, well-documented projects—and getting a little better with every iteration.
 
