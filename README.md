@@ -96,7 +96,8 @@ I'm an intermediate developer exploring **AI/ML**, **full-stack engineering**, *
 
 - GitHub: [@tanishrao13](https://github.com/tanishrao13)
 - Portfolio: **add your deployed URL here**
-- LinkedIn: **add your profile URL here, or remove this line**
-- Email: **add a professional public email here, or remove this line**
+- LinkedIn: [Connect with me](https://www.linkedin.com/in/tanish-yadav13/)
+- Email: [y.tanishrao2@gmail.com](mailto:y.tanishrao2@gmail.com)
+
 
 <p align="center"><code>SHIP USEFUL SYSTEMS · STAY CURIOUS · KEEP HUMANS IN THE LOOP</code></p>
