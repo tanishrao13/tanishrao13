@@ -22,34 +22,43 @@ I'm an intermediate developer exploring **AI/ML**, **full-stack engineering**, *
 ## `01 / PROJECT LAUNCHPAD`
 
 <!-- Replace these examples with real repositories. Do not claim a project is complete until it is. -->
+
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🚧 Project One — replace me</h3>
-      <p>A short, outcome-focused description of a project you have actually built.</p>
-      <p><code>TECH STACK</code> <code>Python</code> <code>TODO: add tools</code></p>
-      <a href="https://github.com/tanishrao13">View repositories →</a>
+      <h3>🏥 MediCare — Doctor Appointment Platform</h3>
+      <p>A healthcare web application designed to help patients find doctors and manage appointments online.</p>
+      <p>
+        <code>WEB DEVELOPMENT</code>
+        <code>AUTHENTICATION</code>
+        <code>APPOINTMENTS</code>
+      </p>
+      <a href="https://github.com/tanishrao13/MediCare">View Source Code →</a>
     </td>
     <td width="50%" valign="top">
-      <h3>🧪 Project Two — replace me</h3>
-      <p>Describe the problem, your approach, and what makes your implementation interesting.</p>
-      <p><code>TECH STACK</code> <code>JavaScript</code> <code>TODO: add tools</code></p>
-      <a href="https://github.com/tanishrao13">View repositories →</a>
+      <h3>🧠 DSA Practice</h3>
+      <p>Solving coding problems to strengthen problem-solving skills, algorithms, and data structures.</p>
+      <p>
+        <code>PROBLEM SOLVING</code>
+        <code>ALGORITHMS</code>
+      </p>
+      <a href="https://github.com/tanishrao13?tab=repositories">Explore repositories →</a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🧠 DSA Practice</h3>
-      <p>Document patterns and solutions you can explain. Link your own practice repository once ready.</p>
-      <a href="https://github.com/tanishrao13?tab=repositories">Explore repositories →</a>
+      <h3>🌱 Open Source</h3>
+      <p>Exploring open-source projects and looking for opportunities to contribute improvements and documentation.</p>
+      <a href="https://github.com/tanishrao13?tab=contributions">View GitHub activity →</a>
     </td>
     <td width="50%" valign="top">
-      <h3>🌱 Open Source</h3>
-      <p>Contributions, bug fixes, documentation, and small improvements. Add merged PRs here as you make them.</p>
-      <a href="https://github.com/tanishrao13?tab=contributions">View activity →</a>
+      <h3>🚀 More Projects</h3>
+      <p>Explore my GitHub repositories to see more of my coding projects and experiments.</p>
+      <a href="https://github.com/tanishrao13?tab=repositories">Browse all repositories →</a>
     </td>
   </tr>
 </table>
+
 
 ## `02 / GITHUB TELEMETRY`
 
